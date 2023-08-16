@@ -1,4 +1,4 @@
-# color [![](https://github.com/WatchJani/color/workflows/build/badge.svg)](https://github.com/WatchJani/color/actions)
+# color [![](https://github.com/fatih/color/workflows/build/badge.svg)](https://github.com/WatchJani/color/actions)
 
 Color lets you use colorized outputs in terms of [ANSI Escape
 Codes](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors) in Go (Golang). They enable easy and simple use in many ways. 
