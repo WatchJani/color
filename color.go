@@ -20,12 +20,12 @@ import (
 // Color	// Example	//    Text   //	Background	 //   Bright Text	//    Bright Background
 // ============================================================================================
 // Black	| Black	    |    30	    |   40	         |   90	            |    100
-// Red	    | Red	    |    31	    |   41	         |   91	            |    101
+// Red	   	| Red	    |    31	    |   41	         |   91	            |    101
 // Green	| Green	    |    32	    |   42	         |   92	            |    102
-// Yellow	| Yellow	|    33	    |   43	         |   93	            |    103
-// Blue	    | Blue	    |    34	    |   44	         |   94	            |    104
-// Magenta	| Magenta	|    35	    |   45	         |   95	            |    105
-// Cyan	    | Cyan	    |    36	    |   46	         |   96	            |    106
+// Yellow	| Yellow    |    33	    |   43	         |   93	            |    103
+// Blue	    	| Blue	    |    34	    |   44	         |   94	            |    104
+// Magenta	| Magenta   |    35	    |   45	         |   95	            |    105
+// Cyan	    	| Cyan	    |    36	    |   46	         |   96	            |    106
 // White	| White	    |    37	    |   47	         |   97	            |    107
 // Default	| none      |    39	    |   49	         |   99             |    109
 
